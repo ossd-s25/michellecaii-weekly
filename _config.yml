@@ -63,7 +63,6 @@ baseurl: "/michellecaii-weekly"
 # !! You don't need to change any of the configuration flags below !!
 #   (but you may, if you know what you are doing)
 #
-future: true
 
 permalink: /:title/
 
@@ -94,3 +93,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
+
+future: true
