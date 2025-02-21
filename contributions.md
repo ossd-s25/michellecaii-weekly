@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 21   | https://ossd-s25.github.io/michellecaii-weekly/contributions/    | Wikipedia    |   Edited Early Life information    |
+| Feb 21   | [Dom Dolla]https://en.wikipedia.org/wiki/Special:Contributions/Mcai12    | Wikipedia    |   Edited Early Life information    |
 |     |     |     |      |
 |     |     |     |      |
