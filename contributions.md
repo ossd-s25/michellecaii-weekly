@@ -19,9 +19,10 @@ Replace the first row with your own contribution.
 
 
 
-
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 21   | [Dom Dolla]https://en.wikipedia.org/wiki/Special:Contributions/Mcai12    | Wikipedia    |   Edited Early Life information    |
+| Feb 21   | [Dom Dolla](https://en.wikipedia.org/wiki/Special:Contributions/Mcai12)    | Wikipedia Edit    |   I added more information about his early life.|
+|     |     |     |      |
+|     |     |     |      |
 |     |     |     |      |
 |     |     |     |      |
