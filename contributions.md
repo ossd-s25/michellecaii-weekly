@@ -22,7 +22,7 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 21   | [Dom Dolla](https://en.wikipedia.org/wiki/Special:Contributions/Mcai12)    | Wikipedia Edit    |   I added more information about his early life.|
-| March 6  |  [OpenStreetMap](https://www.openstreetmap.org/changeset/163300845)  |  OpenStreetMap Edit   |   I added a road that didn't exist in the map  |
+| March 6  |  [OpenStreetMap](https://www.openstreetmap.org/changeset/163300845)  |  OpenStreetMap Edit   |   I added a road near my house that didn't exist in the map.  |
 |  March 6   | [Bunt](https://en.wikipedia.org/wiki/Special:Contributions/Mcai12)    |  Wikipedia Edit   |  I added information about BUNT's success.  |
-|  April 3   |  [The Odin Project](https://github.com/TheOdinProject/curriculum/pull/29581#pullrequestreview-2744346001)  |  I made changes to a lesson, by redefining which values the functions accept.  |      |
-|     |     |     |      |
+|  April 3   |  [The Odin Project](https://github.com/TheOdinProject/curriculum/pull/29581#pullrequestreview-2744346001)  |  Contribution to TheOdinProject  |  I made changes to a lesson, by redefining which values the functions accept.    |
+| April 7    |  [OpenStreetMap](https://www.openstreetmap.org/changeset/164653852#map=19/40.726162/-73.992271)   | OpenStreetMap    |   I added the location of a new matcha shop that opened up in Manhattan, that was previously missing.  |
