@@ -27,5 +27,7 @@ Replace the first row with your own contribution.
 |  April 3   |  [The Odin Project](https://github.com/TheOdinProject/curriculum/pull/29581#pullrequestreview-2744346001)  |  Contribution to TheOdinProject  |  I made changes to a lesson, by redefining which values the functions accept.    |
 | April 7    |  [OpenStreetMap](https://www.openstreetmap.org/changeset/164653852#map=19/40.726162/-73.992271)   | OpenStreetMap    |   I added the location of a new matcha shop that opened up in Manhattan, that was previously missing.  |
 | April 7    |  [data-8](https://github.com/data-8/datascience/pull/626)   | data-8 (repo under UC Berkeley's data science class)   |   Not sure when the repo will be merged, but I solved an issue to update the variables in one of the functions. |
+| April 7    |  [OpenStreetMap](https://www.openstreetmap.org/changeset/164813373)   | OpenStreetMap  |   I added the location of a missing cafe onto OpenStreetMap. |
+
 
 
